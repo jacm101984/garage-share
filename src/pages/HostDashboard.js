@@ -10,8 +10,8 @@ import {
   ChartBar,
   Calendar
 } from 'lucide-react';
-import Analytics from '../components/Analytics';
-import DynamicPricing from '../components/DynamicPricing';
+import Analytics from '../components/analytics/Analytics';
+import DynamicPricing from '../components/pricing/DynamicPricing';
 import SpacesTable from '../components/tables/SpacesTable';
 import ReservationsTable from '../components/tables/ReservationsTable';
 
